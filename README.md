@@ -1,2 +1,3 @@
 # Famous-Problem-solving-using-Python
 This repository contains all the famous problems of leetcode , GfG ,Codechef ,etc . platforms using my basic coding skills...
+I prefer python for problem solving as it is simple use less lines and easy to understand.s
