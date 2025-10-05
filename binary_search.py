@@ -9,6 +9,7 @@ class Solution:
             if arr[mid]==k:
                 ans=mid
                 end=mid-1
+#to return the smallest index if multiple occurrence are present we had used end=mid-1 
             elif arr[mid]<k:
                 st=mid+1
             else:
